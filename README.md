@@ -15,9 +15,10 @@ This project showcases the process of fine-tuning a BERT model for question answ
 
 # Question Answering Dataset
 
-The dataset that is used the most as an academic benchmark for extractive question answering is SQuAD (The Stanford Question Answering Dataset). [https://huggingface.co/datasets/squad_v2?row=17](url)
+The dataset that is used the most as an academic benchmark for extractive question answering is SQuAD (The Stanford Question Answering Dataset). [https://huggingface.co/datasets/squad_v2?row=17](squad_v2)
 
-**Dataset Summary**
+**Dataset Summary:**
+
 Combines the 100,000 questions in SQuAD1.1 with over 50,000 unanswerable questions written adversarially by crowdworkers to look similar to answerable ones. To do well on SQuAD2.0, systems must not only answer questions when possible, but also determine when no answer is supported by the paragraph and abstain from answering.
 
 
